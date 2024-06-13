@@ -13,7 +13,7 @@
             Console.WriteLine("Enter height");
             double height = double.Parse(Console.ReadLine());
 
-            Trapezium trapezium = new Trapezium(firstLength, secondLength, height);
+            Tshikwetamakole trapezium = new Tshikwetamakole(firstLength, secondLength, height);
             trapezium.Display();
         }
     }

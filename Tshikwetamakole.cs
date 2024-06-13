@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp8
 {
-    internal class Trapezium
+    internal class Tshikwetamakole
     {
         double a;
         double b;
         double h;
 
-        public Trapezium(double firstLength, double secondLength, double height)
+        public Tshikwetamakole(double firstLength, double secondLength, double height)
         {
             a = firstLength;
             b = secondLength;
